@@ -1,5 +1,6 @@
 #include <stdio.h>
 #define X 3
+#define Y 3
 void main() {
 
 }
@@ -19,7 +20,7 @@ void main() {
 	//Declaramos las dimensiones del tablero
 	const int f = 6;
 	const int c = 6;
-	/*Caracteristicaws b·sicas de una pieza
+	/*Caracteristicaws b√°sicas de una pieza
 	-Mover
 	-Eliminar
 	*/
